@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/random_giphy_image_rails.svg)](https://badge.fury.io/rb/random_giphy_image_rails)
+
 ## About
 
 RandomGiphyImageRails is an absolute silly gem with the only purpose of put some random Giphy images on your HTML.
